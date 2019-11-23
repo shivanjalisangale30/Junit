@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.junitassertion.ArithmaticTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-11-22T10:54:19" hostname="admin" time="0.033">
+  <properties/>
+  <testcase name="testArithmaticTest[0]" classname="com.junitassertion.ArithmaticTest" time="0.027"/>
+  <testcase name="testArithmaticTest[1]" classname="com.junitassertion.ArithmaticTest" time="0.001"/>
+  <testcase name="testArithmaticTest[2]" classname="com.junitassertion.ArithmaticTest" time="0.0"/>
+  <testcase name="testArithmaticTest[3]" classname="com.junitassertion.ArithmaticTest" time="0.001"/>
+  <testcase name="testArithmaticTest[4]" classname="com.junitassertion.ArithmaticTest" time="0.0"/>
+  <system-out><![CDATA[Sum of Numbers = :3
+Sum of Numbers = :33
+Sum of Numbers = :333
+Sum of Numbers = :19
+Sum of Numbers = :109
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
